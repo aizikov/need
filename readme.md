@@ -33,7 +33,7 @@
 
 Для установки программы на своем омпьютере выполнителе следующий код
 ```
-git clone https://github.com/aizikov/folder-serv.git
+git clone https://github.com/aizikov/need.git
 ```
 
 ## Запуск программы
